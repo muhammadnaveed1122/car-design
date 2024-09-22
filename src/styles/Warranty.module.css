@@ -1,0 +1,58 @@
+.warranty_banner{
+    color: #fff;
+}
+.warranty_banner h3 {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-bottom: 1rem !important;
+}
+.bgDark{
+    background: #202529;
+    color: #fff !important;
+}
+.warranty_part ul{
+list-style: none;
+margin-bottom: 1.5rem;
+}
+.warranty_part ul li{
+    margin-bottom: 0.5rem;
+    margin-top: 0.25rem;
+}
+.section_title{
+    margin-bottom: 2rem;
+}
+.section_title h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    position: relative;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #000;
+}
+.section_title h3{
+    font-size: 1.75rem;
+}
+.warranty_part p{
+    margin-bottom: 1rem;
+}
+.warranty_list_part ul{
+list-style: none;
+}
+.warranty_list_part ul li{
+    margin-top: 0.25rem;
+    margin-bottom:0.5rem ;
+}
+.warranty_list_part .box{
+    background: #202529;
+    color: #fff;
+    min-height: 430px;
+    text-align: center;
+    padding: 3rem;
+}
+
+@media (max-width:767.98px){
+    .warranty_banner h3 {font-size: 2.5rem;}
+}

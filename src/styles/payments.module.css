@@ -1,0 +1,25 @@
+.paymentsContainer {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    /* background-color: #f0f0f0; */
+    flex-wrap: nowrap;
+}
+
+.imageWrapper img {
+    width: 40px;
+    margin: 5px;
+}
+
+@media (max-width: 768px) {
+    .payments-container {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .image-wrapper {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;
+    }
+}

@@ -1,0 +1,13 @@
+.card {
+  transition: transform 150ms ease, box-shadow 150ms ease;
+  box-shadow: 0 10px 15px -5px rgba(0,0,0,.1), 0 6px 10px -4px rgba(0,0,0,.1);
+  &:hover {
+    transform: scale(1.01);
+    box-shadow: var(--mantine-shadow-md);
+  }
+}
+
+.title {
+  font-family: 'Greycliff CF', var(--mantine-font-family);
+  font-weight: bold;
+}

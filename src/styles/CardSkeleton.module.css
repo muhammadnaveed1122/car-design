@@ -1,0 +1,63 @@
+/* CardSkeleton.css */
+.cardSkeleton {
+  width: 300px;
+  padding: 16px;
+  border-radius: 8px;
+  display: grid;
+  background-color: #2c2c2c;
+}
+
+.skeletonImage {
+  width: 100%;
+  height: 150px;
+  background-color: #4a4a4a;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  animation: skeleton-loading 1.5s infinite;
+}
+
+.skeletonText {
+  height: 20px;
+  background-color: #4a4a4a;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  animation: skeleton-loading 1.5s infinite;
+}
+
+.title {
+  width: 80%;
+}
+
+.price {
+  width: 50%;
+}
+
+.lot {
+  width: 60%;
+}
+
+.skeletonDetails {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+}
+
+.skeletonetail {
+  width: 45%;
+  height: 20px;
+  background-color: #4a4a4a;
+  border-radius: 4px;
+  animation: skeleton-loading 1.5s infinite;
+}
+
+@keyframes skeleton-loading {
+  0% {
+    background-color: #4a4a4a;
+  }
+  50% {
+    background-color: #6a6a6a;
+  }
+  100% {
+    background-color: #4a4a4a;
+  }
+}

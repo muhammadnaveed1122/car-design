@@ -1,0 +1,72 @@
+[
+    {
+        "value": "Vehicles",
+        "list": [
+            {
+                "title": "Has my car been serviced?",
+                "content": "Your car will have been serviced by us if it’s due a service within the next three months. This includes replacing the oil and oil filter inline with the manufacturer’s specifications. If your car is also more than one year old, we’ll have changed the air filter and pollen filter too."
+            },
+            {
+                "title": "How will I know if my car's been serviced?",
+                "content": "Your car’s service indicator, if it has one, will have been reset. We also stamp the service book or update the service record on the onboard computer. You’ll find a copy of the service sheet in your welcome pack."
+            },
+            {
+                "title": "Where is my car’s service book?",
+                "content": "You’ll find your car’s service book in the glove compartment."
+            },
+            {
+                "title": "How will I know when to service my car?",
+                "content": "You can check your car’s handbook for the manufacturer’s recommendations on how and when to service your car."
+            },
+            {
+                "title": "Where can I find my car’s handbook?",
+                "content": "Certain cars have digital handbooks which you can download and access through the display screen. If your car came with a physical handbook, you’ll find it in the glove compartment."
+            },
+            {
+                "title": "Is my car’s battery fully charged?",
+                "content": "Yes, your car will be fully charged when you receive it. We carry out a full battery health check on every car just before delivery or collection. If a car needs a new battery, we’ll fit one."
+            },
+            {
+                "title": "Can I buy a charger for my electric car?",
+                "content": "You can buy an at-home charging point for your electric or plug-in hybrid car with our partner Easee. Their installation partner will set it up for you in as little as two hours and you can access your charger via an app whether you’re at home or on the go."
+            },
+            {
+                "title": "Do you check my car’s brakes?",
+                "content": "As part of our inspection, we thoroughly check every car’s braking system and our technicians take each car for a full road test.If your car’s brakes make a noise when driving, your car may have some surface rust visible on the brake discs. This is nothing to worry about, as light rust can form within hours if a car isn't driven. Rust will disappear once you drive the car for a few miles."
+            },
+            {
+                "title": "Where can I find my car’s locking wheel nuts?",
+                "content": "You can find your car's locking wheel nuts in the boot or glove compartment."
+            },
+            {
+                "title": "How much fuel will be in the car when it's delivered?",
+                "content": "Every car has at least 3 gallons of fuel so you can enjoy it from the get-go. If it’s an electric car, it’ll come with at least 75% charge."
+            }
+        ]
+    },
+    {
+        "value": "Delivery",
+        "list": [
+            {
+                "title": "When will my car be delivered?",
+                "content": "We deliver 7 days a week from 8am-8pm. Just choose your preferred two-hour delivery slot during checkout and one of our Handover Specialists will bring it to your door. You can also choose a slot up to two weeks away."
+            },
+            {
+                "title": "What days of the week do we deliver?",
+                "content": "We offer delivery slots 7 days a week, including weekends and bank holidays. The only days we don’t deliver are Christmas Day and New Year’s Day."
+            },
+            {
+                "title": "What happens when my car is delivered?",
+                "content": "One of our Handover Specialists will show you around the car and answer any questions. All you need to do is show proof of your identification and give us a quick signature."
+            },
+            {
+                "title": "What happens if I don’t like my car when it's delivered?",
+                "content": "If you want to return your car, simply contact us through Live Chat Support before 8pm on the 7th day following delivery and we’ll arrange a convenient time to pick the car up from you. All our cars come with a 7-Day Money Back Guarantee which starts on the day of delivery."
+            },
+            {
+                "title": "How much fuel will be in the car when it's delivered?",
+                "content": "Every car has at least 3 gallons of fuel so you can enjoy it from the get-go. If it’s an electric car, it’ll come with at least 75% charge."
+            }
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 1rem;
+  min-height: calc(100vh - 500px);
+}
+
+.timeline {
+  transform: rotate(90deg);
+}
+
+.timelineContentContainer {
+  text-align: left;
+  transform: rotate(-90deg);
+}
+
+.mantine-Timeline-itemContent {
+  transform: rotate(-90deg);
+  display: inline-block;
+  text-align: center;
+  min-width: 50px;
+}
+
+.timelineIcon {
+  transform: rotate(-90deg);
+}

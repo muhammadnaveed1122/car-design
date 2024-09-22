@@ -1,0 +1,78 @@
+.returnBannerTop h3{
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: #fff;
+    line-height: 1.2;
+    font-weight: 100 !important;
+}
+.returnBannerTop p{
+    text-align: center;
+    color: #fff;
+
+}
+.txtWhite{
+    color: white;
+    text-align: center;
+}
+.bgDark{
+    background: #202529;
+    color: #fff !important;
+}
+.bgDark ul{
+    list-style: none !important;
+}
+.section_title h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    position: relative;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.faq{
+    text-decoration: none;
+    color: red;
+}
+.list_group{
+    margin-bottom: 20px;
+}
+
+
+ /* bottom section all pages */
+
+ .bgBlue{
+    background: linear-gradient(135deg, #1A809C, #56a6e1);
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.cardBgDark{
+    background-color: #202529;
+    color: white;
+    position: relative;
+    margin-top: 30px;
+}
+.cardHeading{
+    margin-top: 10px;
+    font-size: 1.25rem; padding-bottom: 10px;
+    margin-bottom: 20px; position: relative;
+}
+.cardHeading::after {
+    content: "" !important;
+    position: absolute !important;
+    width: 60px;
+    height: 3px;
+    left: 0px;
+    bottom: 0;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #1971c2;
+}
+
+@media (max-width: 768px) {
+    .returnBannerTop h3{
+        font-size: 2.5rem;
+    }
+}

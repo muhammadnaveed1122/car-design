@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <g id="Group_8666" data-name="Group 8666" transform="translate(-673 -402)">
+    <circle id="Ellipse_13" data-name="Ellipse 13" cx="31" cy="31" r="31" transform="translate(673 402)" fill="#3cdfcd"/>
+    <g id="id-card-svgrepo-com" transform="translate(685.5 417)">
+      <path id="Path_857" data-name="Path 857" d="M3.5,8.274V24.647a3.274,3.274,0,0,0,3.274,3.274H29.7a3.274,3.274,0,0,0,3.274-3.274V8.274A3.274,3.274,0,0,0,29.7,5H6.774A3.274,3.274,0,0,0,3.5,8.274Z" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+      <path id="Path_858" data-name="Path 858" d="M15.5,10h4.912" transform="translate(7.647 3.186)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_859" data-name="Path 859" d="M15.5,13h4.912" transform="translate(7.647 5.098)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_860" data-name="Path 860" d="M14.049,11.274a3.275,3.275,0,1,1-.959-2.315A3.274,3.274,0,0,1,14.049,11.274Z" transform="translate(2.549 1.912)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+      <path id="Path_861" data-name="Path 861" d="M5.5,17.274c4.556-5.136,9.909-3.522,13.1,0" transform="translate(1.274 5.735)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

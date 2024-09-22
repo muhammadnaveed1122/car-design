@@ -1,0 +1,207 @@
+.accordionContainer{
+    background-color: #202529;
+    padding: 80px 0;
+
+    [data-rotate="true"]{
+        transform: rotate(45deg);
+    }
+    
+}
+.error_message{
+    color: red;
+}
+
+
+    .icon {
+        width: rem(16px);
+        height: rem(16px);
+        }
+    
+
+    .mantine_Accordion_control {
+        background: transparent !important;
+        color: #fff !important;
+        font-size: 16px;
+    }
+
+    .mantine_accordion_item {
+        background: #25262B;
+        border: 1px solid #373A40;
+        border-radius: 10px;
+    }
+
+    .mantine_accordion_item + .mantine_accordion_item {
+        margin-top: 12px;
+    }
+
+    .mantine_Accordion_label {
+        font-weight: 500;
+    }
+
+    .mantine_Accordion_panel {
+        border-top: 1px solid #ffffff8a;
+        color: #FFF;
+        > div {
+            padding-top: 16px;
+        }
+    }
+
+.vehicleInspectionContainer{
+    background: linear-gradient(270deg, #299CCC -2.46%, #00819C 98.84%);
+    padding: 80px 0;
+    color: #fff;
+}
+
+.vehicleInspectionImg{
+    img{width: 100%; height: 100%; object-fit: cover;}
+}
+.vehicleInspectionContent{
+    padding-left: 30px;
+    h3{
+        font-size: 44px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+         margin-bottom: 16px;
+    }
+}
+
+.accorList{
+    padding-left: 0; list-style:none;
+    svg{margin-right: 6px; fill: green !important;}
+}
+
+ /* bottom section all pages */
+
+ .sectionHeading{
+    margin-bottom: 10px; color: #fff; text-align: center;
+    h3{
+        font-size: 2rem; margin-bottom: 40px;
+    }
+    p{margin-bottom: 0;}
+}
+
+ .bgBlue{
+    background: linear-gradient(135deg, #1A809C, #56a6e1);
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.cardBgDark{
+    background-color: black;
+    color: white;
+    position: relative;
+    margin-top: 30px;
+}
+.cardHeading{
+    margin-top: 10px;
+    font-size: 1.25rem; padding-bottom: 10px;
+    margin-bottom: 20px; position: relative;
+}
+.cardHeading::after {
+    content: "" !important;
+    position: absolute !important;
+    width: 60px;
+    height: 3px;
+    left: 0px;
+    bottom: 0;
+    margin-bottom: 20px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #1971c2;
+}
+.mantine_Accordion_control1{
+    color: #fff;
+    &[aria-expanded="true"], &:hover{
+        color: #000;
+        background-color: #fff;
+    }
+}
+.contact_details{
+    background-color: #202529;
+    padding-bottom: 80px;
+}
+.left_part{
+    color: #fff !important;
+}
+.left_part h3{
+    font-size: 1.75rem;
+}
+.left_part .content{
+    margin-top: 20px;
+}
+.left_part .content span{
+    font-size: 13px;
+    color: #cfcfcf;
+}
+.right_form{
+    border:  1px solid #ffffff8a;
+    padding: 25px 20px;
+    border-radius: 5px;
+}
+.form_label{
+    border: 1px solid #ffffff8a;
+    border-radius: 5px;
+    position: relative;
+}
+.form_label span{
+    position: absolute;
+    top: -10px;
+    left: 8px;
+    color: #fff;
+    font-size: 14px;
+    background-color: #202529;
+    padding: 0 3px;
+}
+.form_label input{
+    color: #fff;
+    width: 100%;
+    height: 40px;
+    background-color: transparent;
+    padding: 0 12px;
+    border: none;
+    outline: none;
+}
+.form_label textarea{
+    width: 100%;
+    min-height: 130px;
+    resize: none;
+    resize: vertical;
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    outline: none;
+    padding: 12px;
+}
+.right_form button{
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    border: none;
+    outline: none;
+    padding: 7px 0px;
+    background: #2b9dce;
+    color: #fff;
+    border-radius: 5px;
+}
+@media screen and (max-width:992px) {
+    .vehicleInspectionContent{
+        h3{
+            font-size: 38px;
+        }
+    }
+    .right_form{
+       margin-top: 30px;
+    }
+}
+@media (max-width:767.98px){
+    .vehicleInspectionContent{
+        padding-left: 0;
+    }
+    .vehicleInspectionContent{
+        h3{
+            font-size: 32px;
+        }
+    }
+}

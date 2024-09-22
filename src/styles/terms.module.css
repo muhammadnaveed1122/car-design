@@ -1,0 +1,80 @@
+.vehicleInspectionContainer{
+    background: linear-gradient(270deg, #299CCC -2.46%, #00819C 98.84%);
+    padding: 80px 0;
+    color: #fff;
+}
+.vehicleInspectionContent{
+    padding-left: 30px;
+    h4{
+        text-align: center;
+        color: #25262B;
+        font-size: 24px;
+    }
+    h3{
+        margin-top: 10px;
+        font-size: 44px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    p{
+        text-align: center;
+         margin-bottom: 16px;
+    }
+}
+.slash{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    span{
+        width: 4px;
+        height: 20px;
+        background-color: #25262B;
+        transform: rotate(45deg);
+    }
+}
+.banner_part{
+    padding: 20px 0;
+    color:#fff;
+    background-color:#25262B;
+    text-align: center;
+}
+.banner_part h3{
+font-size: 26px;
+margin: 0;
+}
+.terms_part{
+    padding: 60px 0px;
+}
+.terms_part p{
+   color: light-dark(#696b75, #c1c2c5);
+   margin-bottom: 10px;
+   font-size: 15px;
+}
+.terms_part p strong{
+    color: light-dark(#25262B, #c1c2c5);
+    font-size: 17px;
+}
+.mb2{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+@media screen and (max-width:992px) {
+    .vehicleInspectionContent{
+        h4{
+            font-size: 22px;
+        }
+        h3{
+            font-size: 36px;
+        }
+    }
+}
+@media screen and (max-width:592px) {
+    .vehicleInspectionContent{
+        h4{
+            font-size: 20px;
+        }
+        h3{
+            font-size: 32px;
+        }
+    }
+}
